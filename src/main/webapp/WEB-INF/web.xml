@@ -21,4 +21,13 @@
         <servlet-name>FirstJSP</servlet-name>
         <url-pattern>/hello-world-jsp</url-pattern>
     </servlet-mapping>
+
+    <servlet>
+        <servlet-name>TestServlet</servlet-name>
+        <servlet-class>com.imrahil.javaee_servlets.TestServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>TestServlet</servlet-name>
+        <url-pattern>/test-servlet</url-pattern>
+    </servlet-mapping>
 </web-app>
