@@ -9,16 +9,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="827f72da-a022-4e72-96b5-0064dff89e27" name="Changes" comment="HTTP - request и response&#10;Cоздание web приложения на JavaEE и сервера Tomcat&#10;Создание первого Сервлета&#10;JSP - понятие, создание и работа в нем&#10;HTML ввод вывод и внедрение Java кода с помощью JSP.&#10;Параметры GET - запроса">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/imrahil/javaee_servlets/TestServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/testJSP.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Конспекты и скриншоты/Разница между Redirect b Forward.png" afterDir="false" />
+    <list default="true" id="827f72da-a022-4e72-96b5-0064dff89e27" name="Changes" comment="Redirect и Forward">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/imrahil/javaee_servlets/AuthServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/imrahil/javaee_servlets/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/imrahil/javaee_servlets/CartServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/imrahil/javaee_servlets/SessionServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/showCart.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTTP request методы.png" beforeDir="false" afterPath="$PROJECT_DIR$/Конспекты и скриншоты/HTTP request методы.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTTP response.png" beforeDir="false" afterPath="$PROJECT_DIR$/Конспекты и скриншоты/HTTP response.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЖЦ Сервлета.png" beforeDir="false" afterPath="$PROJECT_DIR$/Конспекты и скриншоты/ЖЦ Сервлета.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Конспект.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Конспекты и скриншоты/Конспект.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,7 +171,7 @@
       <option name="presentableId" value="Default" />
       <updated>1696421563683</updated>
       <workItem from="1696421565124" duration="2203000" />
-      <workItem from="1696508003538" duration="1909000" />
+      <workItem from="1696508003538" duration="5823000" />
     </task>
     <task id="LOCAL-00001" summary="HTTP - request и response&#10;Cоздание web приложения на JavaEE и сервера Tomcat&#10;Создание первого Сервлета&#10;JSP - понятие, создание и работа в нем&#10;HTML ввод вывод и внедрение Java кода с помощью JSP.&#10;Параметры GET - запроса">
       <created>1696424733784</created>
@@ -182,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696424733784</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Redirect и Forward">
+      <created>1696509999229</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696509999229</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,6 +207,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="HTTP - request и response&#10;Cоздание web приложения на JavaEE и сервера Tomcat&#10;Создание первого Сервлета&#10;JSP - понятие, создание и работа в нем&#10;HTML ввод вывод и внедрение Java кода с помощью JSP.&#10;Параметры GET - запроса" />
-    <option name="LAST_COMMIT_MESSAGE" value="HTTP - request и response&#10;Cоздание web приложения на JavaEE и сервера Tomcat&#10;Создание первого Сервлета&#10;JSP - понятие, создание и работа в нем&#10;HTML ввод вывод и внедрение Java кода с помощью JSP.&#10;Параметры GET - запроса" />
+    <MESSAGE value="Redirect и Forward" />
+    <option name="LAST_COMMIT_MESSAGE" value="Redirect и Forward" />
   </component>
 </project>
